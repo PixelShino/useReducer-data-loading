@@ -6,6 +6,8 @@
 
 Простое приложение для отслеживания голосов за кандидатов, созданное с использованием React и useReducer.
 
+![Image](https://github.com/user-attachments/assets/9c8e30d0-112e-42a6-b75c-26ad20a55517)
+
 <details>
 <summary>English version</summary>
 
